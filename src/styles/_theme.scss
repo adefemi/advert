@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri:300,400,500,600,700&display=swap');
+
+// Fonts
+$primary-font: 'Raleway', sans-serif;
+$secondary-font: 'Hind Siliguri', sans-serif;
+
+$default-font-size: 16px;
+
+// Font Colors
+$color-text: #4f6c8d;
+$color-text-light: #a3adb4;
+$color-text-lighter: #ccd6e1;
+
+$color-text-contrast: #ffffff;
+$color-text-contrast-light: #a7b5c6;
+$color-text-contrast-lighter: #5f5f63;
+
+$white-color: #ffffff;
+$black-color: #000000;
+
+// Background Colors
+$gray: #bec9d1;
+$input: #ffffff;
+$border-light: rgba(0, 0, 0, 0.2);
+
+// Primary Colors
+$primary-color: #0F4CC5;
+$secondary-color: #6F5EE3;
+$success-color: #49B26D;
+$danger-color: rgb(218, 21, 73);
+
+// Dark Primary Colors
+$primary-color-dark: #0F4CC5;
+$secondary-color-dark: #0F4CC5;
+$success-color-dark: #21A14D;
+$danger-color-dark: #C91319;
+
+// Auxiliary Colors
+$primary-color-light: #6F5EE3;
+$secondary-color-light: rgb(109, 151, 235);
+$success-color-light: #71C38D;
+$danger-color-light: #DD7592;
+$warning-color-light: rgb(231, 189, 99);
